@@ -52,10 +52,3 @@ This repository is designed for an authorized training/sandbox environment. Repl
 - bcrypt password hashing
 - Key storage and rotation
 
-## Submission Safety
-
-Before making the repository public:
-- Remove credentials, cookies, JWTs, API keys, private keys and secrets.
-- Redact personal data.
-- Do not upload production packet captures.
-- Confirm all testing was authorized.
